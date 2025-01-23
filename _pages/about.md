@@ -16,8 +16,11 @@ Our SAFE is accepted by ICLR 2025. Congrats to Tianyu and all coauthors!
 Rewards and Honors
 ======
 Selected for the Young Talents Doctoral Program of the China Association for Science and Technology
+
 Peking University Merit Student
+
 Peking University Academic Excellence Award
+
 PKU PhD President Scholarship
 
 
