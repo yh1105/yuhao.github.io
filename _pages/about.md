@@ -7,7 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc in Computer Science at Peking University, advised by Prof. Tao Xie. Before that, I received my Bachelor’s degree in Computer Science from Peking University in 2020.
+I am a postdoctoral researcher at HKUST, working with Prof. Yuan Xie. My research interests are automated code generation (including hardware and software), with focuses on large language models, multimodal learning, and their applications in complex scenarios. I obtained Ph.D at Peking University, under the supervision of Tao Xie and Ying Li, master degree from Peking University, and bachelor from Tianjin Normal University.
 
-
-My current research interests are related to Open-Source Software (OSS) vulnerabilities, Software Engineering and Artificial Integllence. My research includes larage language model's application in security, software engineering, and software verification.
