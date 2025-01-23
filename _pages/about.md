@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at HKUST, working with Prof. Yuan Xie. My research interests are automated code generation, with focuses on hardware and software code generation. I obtained Ph.D at Peking University, under the supervision of Tao Xie and Ying Li, master degree from Peking University, and bachelor from Tianjin Normal University.
+I am a postdoctoral researcher at HKUST, working with Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie). My research interests are automated code generation, with focuses on hardware and software code generation. I obtained Ph.D at Peking University, under the supervision of [Tao Xie](https://taoxiease.github.io/) and [Ying Li](https://www.ss.pku.edu.cn/teacherteam/teacherlist/1674-%E6%9D%8E%E5%BD%B1.html), master degree from Peking University, and bachelor from Tianjin Normal University.
 
 News
 ======
