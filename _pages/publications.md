@@ -47,6 +47,8 @@ Dong Chen, ... , **Hao Yu**, ..., and Qianxiang Wang. CodeR: Issue Resolving wit
 
 Yibo He, Jiaming Huang, **Hao Yu**, Tao Xie. An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation. (FSE2024)
 
+Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, **Hao Yu**, Nan Duan, Peng CHENG, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou, Automated Proof Generation for Rust Code via Self-Evolution, `ICLR’25)
+
 Xiaotong Liu, Tong Jia, Ying Li, **Hao Yu**, Yang Yue, Chuanjia Hou. Automatically generating descriptive texts in logging statements: How far are we?. (APLAS2022)
 
 Linyi Li, Shijie Geng, Zhenwen Li, Yibo He, **Hao Yu**, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie, Hongxia Yang. Infibench: Evaluating the question-answering capabilities of code large language models. (NeurIPS2024, Datasets and Benchmarks Track)
